@@ -1,0 +1,11 @@
+Review,Polarity,Sentiment
+This book is amazing and very interesting.,0.625,Positive
+I loved reading this book.,0.7,Positive
+The story was boring and too long.,-0.525,Negative
+Excellent writing and great characters.,0.9,Positive
+Worst book I have ever read.,-1.0,Negative
+"It was okay, nothing special.",0.4285714285714286,Positive
+"Fantastic experience, highly recommended.",0.28,Positive
+"Not good, I didn't enjoy it.",0.025000000000000022,Positive
+Average book with decent content.,0.008333333333333331,Positive
+Absolutely wonderful!,1.0,Positive
